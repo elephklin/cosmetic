@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elephklin/cosmetic/issues"
   },
-  "homepage": "https://github.com/elephklin/cosmetic#readme"
+  "homepage": "https://github.com/elephklin/cosmetic#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
 }
